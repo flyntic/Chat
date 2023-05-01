@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfAppListUsers.View.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppListUsers.View"
+        xmlns:vm="clr-namespace:WpfAppListUsers.ViewModel"
+        xmlns:cv="clr-namespace:WpfAppListUsers.Resources"
+        mc:Ignorable="d"
+        Title="Login User" Height="250" Width="400"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        BorderBrush="#4C2982"   
+        BorderThickness="5"
+        d:DataContext="{d:DesignInstance Type=vm:MainViewModel}"
+        >
+    <!--<Window.DataContext>
+        <x:Name="MainVM" Type=vm:MyViewModel></x:Name>
+    </Window.DataContext>-->
+    <Window.Resources>
+        <cv:ActiveConverter x:Key="activeConverter"/>
+        <cv:LevelConverter  x:Key="levelConverter"/>
+        <Style TargetType="ScrollBar">
+            <Setter Property="Background" Value="Transparent"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FFBB00">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions  >
+        <Border Grid.Row="0" Style="{StaticResource BorderTopWindow}"
+                MouseLeftButtonDown="AnyWindowDrag"
+             >
+            <Grid 
+                  Background="#4C2982"
+                  >
+                <Label Content="About User"
+                       Foreground="#FFBB00"
+                       FontWeight="Bold"
+                       />
+                <StackPanel HorizontalAlignment="Right"
+                            Orientation="Horizontal"
+                            Height="30"  VerticalAlignment="Top"
+                            >
+                    <Button Style="{StaticResource CloseButton}"                          
+                            Click="AnyWindowClose"
+                        />
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1">
+            <StackPanel Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center" Width="200">
+                <Label Content="Login" Foreground="#4C2982"/>
+                <TextBox Text="{Binding LoginName}" Background="Transparent" Foreground="#4C2982"/>
+                <Label Content="Password" Foreground="#4C2982"/>
+                <TextBox Text="{Binding LoginPassword}" Background="Transparent" Foreground="#4C2982"/>
+                <Label />
+                <Button  Background="Transparent" BorderBrush="#4C2982" 
+                             BorderThickness="2"
+                             Foreground="#4C2982" 
+                             FontWeight="Bold" 
+                             Content="Войти"
+                             Command="{Binding LoginCommand}"
+                             />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,66 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:fa="http://schemas.fontawesome.io/icons/"                   
+                    >
+
+    <DataTemplate x:Key="WindowBorder" DataType="{x:Type Border}"  >
+        <Border DockPanel.Dock="Top"              
+                    >
+            <Grid HorizontalAlignment="Stretch"
+                  Background="#4C2982"                  
+                  >
+                <Label Content="Чат"
+                       Foreground="#FFBB00"
+                       FontWeight="Bold"
+                       />
+                <Label  Content="{Binding connectionState}"
+                       Foreground="#FFBB00"
+                       FontWeight="Bold" />
+                    <StackPanel HorizontalAlignment="Right"
+                            Orientation="Horizontal"
+                            Height="30"  VerticalAlignment="Top"
+                            >
+                    <Button Width="20" Height="20"
+                            Background="Transparent"
+                            Margin="0,0,10,0"
+                            Command="{Binding WindowMinimizeCommand, ElementName=MainVM}"
+                            >
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <fa:ImageAwesome Icon="WindowMinimize"
+                                                 Foreground="#FFBB00"
+                                                 />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Button Width="20"
+                            Background="Transparent"
+                            Margin="0,0,10,0"
+                            Command="{Binding WindowMaximizeCommand, ElementName=MainVM}"
+                            >
+                        <Button.Template>
+                            <ControlTemplate>
+                                <fa:ImageAwesome Icon="WindowMaximize"
+                                                 Foreground="#FFBB00"
+                                                 />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Button Width="20"
+                            Background="Transparent"
+                            Command="{Binding CloseWindowCommand, ElementName=MainVM}"
+                            >
+                        <Button.Template>
+                            <ControlTemplate>
+                                <fa:ImageAwesome Icon="WindowCloseOutline" 
+                                                 Foreground="#FFBB00"
+                                                 />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </DataTemplate>
+
+</ResourceDictionary>

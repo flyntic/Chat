@@ -1,0 +1,307 @@
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\App.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\App.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+C:\AnnaC#\NewC#\WpfAppListUsers\bin\Debug\FontAwesome.Sharp.dll
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+C:\AnnaC#\NewC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+D:\_DZ_new_\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\MessageItemDictionary.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\MessageItemDictionary.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+C:\AnnaC#\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\MessageItemDictionary.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.g.cs
+D:\_DZ_2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.g.cs
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\MessageItemDictionary.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Features.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Options.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Buffers.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.IO.Pipelines.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Memory.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Numerics.Vectors.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Encodings.Web.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Json.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.ValueTuple.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Features.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Options.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Buffers.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.IO.Pipelines.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Memory.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Numerics.Vectors.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Encodings.Web.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Json.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.ValueTuple.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Channels.dll
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\AnnaC#\2\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Channels.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe.config
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.exe
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\WpfAppListUsers.pdb
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Buffers.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.IO.Pipelines.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Memory.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Json.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Channels.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.ValueTuple.dll
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\FontAwesome.WPF.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Buffers.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.IO.Pipelines.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Memory.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Text.Json.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Channels.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\bin\Debug\System.ValueTuple.xml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.AssemblyReference.cache
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.SuggestedBindingRedirects.cache
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\ListItemDictionary.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\AvatarDictionary.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\TopBorderButtonStyle.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\WindowsStyle.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.cache
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers_MarkupCompile.lref
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\App.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\Resources\MessageItemDictionary.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AboutUser.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\LoginWindow.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\MainWindow.baml
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.g.resources
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.Properties.Resources.resources
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.GenerateResource.cache
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CoreCompileInputs.cache
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.csproj.CopyComplete
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.exe
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\WpfAppListUsers.pdb
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AddUser.g.cs
+C:\Users\79107\Desktop\Новая папка\WpfAppListUsers\WpfAppListUsers\obj\Debug\View\AddUser.baml

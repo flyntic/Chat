@@ -1,0 +1,52 @@
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\appsettings.Development.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\appsettings.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.exe
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.deps.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.runtimeconfig.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.dll
+C:\AnnaC#\2\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.pdb
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.csproj.AssemblyReference.cache
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.AssemblyInfoInputs.cache
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.AssemblyInfo.cs
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.csproj.CoreCompileInputs.cache
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.MvcApplicationPartsAssemblyInfo.cache
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.ServerUserList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerUserList.props
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerUserList.props
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerUserList.props
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.build.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.development.json
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\scopedcss\bundle\ServerUserList.styles.css
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.dll
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\refint\ServerUserList.dll
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.pdb
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.genruntimeconfig.cache
+C:\AnnaC#\2\ServerUserList\ServerUserList\obj\Debug\net6.0\ref\ServerUserList.dll
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\appsettings.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.exe
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.deps.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.runtimeconfig.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.dll
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\bin\Debug\net6.0\ServerUserList.pdb
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.csproj.AssemblyReference.cache
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.AssemblyInfoInputs.cache
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.AssemblyInfo.cs
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.csproj.CoreCompileInputs.cache
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.ServerUserList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerUserList.props
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerUserList.props
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerUserList.props
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\scopedcss\bundle\ServerUserList.styles.css
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.dll
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\refint\ServerUserList.dll
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.pdb
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ServerUserList.genruntimeconfig.cache
+C:\Users\79107\Desktop\Новая папка\ServerUserList\ServerUserList\obj\Debug\net6.0\ref\ServerUserList.dll
