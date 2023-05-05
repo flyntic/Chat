@@ -28,7 +28,7 @@ namespace WpfAppListUsers.ViewModel
     {
         public event PropertyChangedEventHandler PropertyChanged;
         public HubConnection connection;
-        public string connectionState="Есть соединение с сервером"; 
+//        public string connectionState="Есть соединение с сервером"; 
         #region Commands
         public ActionCommand WindowMinimizeCommand => new ActionCommand(x => Application.Current.MainWindow.AnyWindowMinimize(x, null));
         public ActionCommand WindowMaximizeCommand => new ActionCommand(x => Application.Current.MainWindow.AnyWindowMaximize(x, null));
@@ -41,8 +41,14 @@ namespace WpfAppListUsers.ViewModel
         public ActionCommand SendMessageCommand => new ActionCommand(async x => await SendMessage(),x=>(TemplateSelectUser !=null) );
         public ActionCommand LogOutCommand => new ActionCommand(x => LogOut());
         public ActionCommand LoginCommand  => new ActionCommand(x => Login());
-        public ActionCommand AddUserCommand => new ActionCommand(x => AddUserInFriends()); //, x => (TemplateSelectUser?.IsNoFriend == true)
+        public ActionCommand AddUserCommand => new ActionCommand(x => AddUserInFriends()); 
+        
+        public ActionCommand NewUserOpenDialogCommand => new ActionCommand(x => NewUserWindow());
+        public ActionCommand NewRegUserCommand => new ActionCommand(x => RegistrationUser());
+        public ActionCommand AboutLoginUserCommand => new ActionCommand(x => ShowAboutLoginUser());
 
+        public ActionCommand SearchUserShowCommand => new ActionCommand(x => ShowSearchUser());
+        public ActionCommand AddSearchUserCommand => new ActionCommand(x => AddSearchUserInFriends());
         #endregion
 
         #region Property
@@ -68,6 +74,22 @@ namespace WpfAppListUsers.ViewModel
             }
         }
 
+        //private TemplateListUsers templateListUsers=new TemplateListUsers();
+        //public TemplateListUsers TemplateListUsers
+        //{
+        //    get
+        //    {
+        //        templateListUsers.Users=new ObservableCollection<TemplateSelectUser>();
+        //        ListUsers.Users.ForEach(u => templateListUsers.Users.Add(new TemplateSelectUser(u,null)));
+        //        return templateListUsers;
+        //    }
+        //    set
+        //    {
+        //        templateListUsers = value;
+        //        OnPropertyChanged();
+        //    }
+        //}
+
         private TemplateSelectUser templateSelectUser;
         public TemplateSelectUser TemplateSelectUser
         {
@@ -83,6 +105,22 @@ namespace WpfAppListUsers.ViewModel
                 OnPropertyChanged();
             }
         }
+
+        //private TemplateSelectUser templateSearchUser;
+        //public TemplateSelectUser TemplateSearchUser
+        //{
+        //    get => templateSearchUser;
+        //    set
+        //    {
+        //        templateSearchUser = value;
+        //        //if (templateSearchUser == null) return;
+        //        //
+        //        //SelectUser = ListUsers.findById(templateSelectUser.Id);
+        //        //TemplateSelectUserMessages = new TemplateListMessages(selectUser, loginUser);
+
+        //        OnPropertyChanged();
+        //    }
+        //}
         private TemplateListMessages templateSelectUserMessages;
         public TemplateListMessages TemplateSelectUserMessages
         {
@@ -118,6 +156,16 @@ namespace WpfAppListUsers.ViewModel
                 OnPropertyChanged();
             }
         }
+        private User newRegUser;
+        public User NewRegUser
+        {
+            get => newRegUser;
+            set
+            {
+                newRegUser = value;
+                OnPropertyChanged();
+            }
+        }
 
         private string newText;
         public string NewText
@@ -130,7 +178,29 @@ namespace WpfAppListUsers.ViewModel
             }
 
         }
+        private string searchText;
+        public string SearchText
+        {
+            get => searchText;
+            set
+            {
+                searchText = value;
+                OnPropertyChanged();
+            }
 
+        }
+
+        private string connectionState;
+        public string ConnectionState
+        {
+            get => connectionState;
+            set
+            {
+                connectionState = value;
+                OnPropertyChanged();
+            }
+
+        }
         private string loginName;
 
         public string LoginName
@@ -175,8 +245,9 @@ namespace WpfAppListUsers.ViewModel
                       listUsers.Users[i].Messages.Add(new Message(listUsers.Users[j], listUsers.Users[i], $"Message from {i} to {j}" ));
                   }
               }
-          // создаем подключение к хабу
-          connection = new HubConnectionBuilder()
+            ConnectionState = "Попытка подключения";
+        // создаем подключение к хабу
+        connection = new HubConnectionBuilder()
                 .WithUrl("https://localhost:7019/chat")
                 .Build();
 
@@ -215,17 +286,60 @@ namespace WpfAppListUsers.ViewModel
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                connectionState =ex.Message;
             }
             
             NewText = string.Empty;
         }
 
+        public void SearchTextInUsers()
+        {
+            LoginUser = loginUser;//Сброс поиска
+            if (string.IsNullOrEmpty(SearchText))
+            {
+                //LoginUser = loginUser; 
+              return;
+            } 
+            ObservableCollection<TemplateSelectUser> Users = new ObservableCollection<TemplateSelectUser>();
+
+            TemplateListSelectUsers.Users.ToList().FindAll(u => u.FirstName.Contains(SearchText) || u.LastName.Contains(SearchText)).ForEach(u=>Users.Add(u));
+
+            templateListSelectUsers.Users.Clear();
+            templateListSelectUsers.Users = Users;
+            TemplateListSelectUsers = templateListSelectUsers;
+
+        }
         private void ShowAboutUser()
         {
             var windowAbout = new AboutUser();
             windowAbout.DataContext = Application.Current.MainWindow.DataContext;
-            windowAbout.Show();
+            windowAbout.ShowDialog();
+        }
+        private void ShowAboutLoginUser()
+        {
+            var windowAbout = new AboutUser();
+            SelectUser = LoginUser;
+            windowAbout.DataContext = Application.Current.MainWindow.DataContext;
+            windowAbout.ShowDialog();
+        }
+        private void ShowSearchUser()
+        {
+            var windowSearch = new SearchUser();
+            var SearchVM=new SearchViewModel(ListUsers,LoginUser);
+            windowSearch.DataContext = SearchVM;
+            windowSearch.ShowDialog();
+            if (windowSearch.DialogResult == true)
+            {
+               
+                User searchUser=listUsers.Users.FirstOrDefault(u=>u.Id == SearchVM.TemplateSearchUser.Id);
+
+                LoginUser?.FriendList.Friends.Add(searchUser);
+                LoginUser = loginUser; //обновление списка
+            }
+        }
+        private void AddSearchUserInFriends()
+        {
+            Application.Current.Windows.OfType<SearchUser>().First().DialogResult = true;
         }
 
         private void ShowAddUser()
@@ -243,10 +357,24 @@ namespace WpfAppListUsers.ViewModel
         private void AddUserInFriends()
         {
             Application.Current.Windows.OfType<AddUser>().First().DialogResult = true;
-           // Application.Current.Windows.OfType<AddUser>().First().Close();
-           //
-            //В этом месте LoginUser=null и SelectUser=null            
+       }
+
+        private void NewUserWindow()
+        {
+             NewRegUser = new User();
+             var windowNew = new NewUser();
+             windowNew.DataContext = Application.Current.MainWindow.DataContext;
+             windowNew.ShowDialog();
+            if (windowNew.DialogResult == true)
+            {
+                ListUsers.Users.Add(NewRegUser);
+            }
         }
+       private void RegistrationUser()
+        { 
+    
+            Application.Current.Windows.OfType<NewUser>().First().DialogResult = true;
+         }
 
         private void LogOut()
         {
@@ -269,9 +397,10 @@ namespace WpfAppListUsers.ViewModel
 
             if (_user != null) 
             { 
+
               Application.Current.Windows.OfType<LoginWindow>().Last().Close(); 
-              TemplateSelectUser = new TemplateSelectUser(_user.FriendList.Friends.FirstOrDefault(), _user);
-              TemplateSelectUserMessages = new TemplateListMessages(_user.FriendList.Friends.FirstOrDefault(), _user);
+              TemplateSelectUser = new TemplateSelectUser(_user.FriendList?.Friends.FirstOrDefault(), _user);
+              TemplateSelectUserMessages = new TemplateListMessages(_user.FriendList?.Friends.FirstOrDefault(), _user);
               LoginUser= _user;
             }
             else

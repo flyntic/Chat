@@ -39,7 +39,8 @@ namespace WpfAppListUsers
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MainVM.ConnectionState=ex.Message;
+                //MessageBox.Show(ex.Message);
             }
         }
 
@@ -48,5 +49,9 @@ namespace WpfAppListUsers
            Application.Current.MainWindow.DragMove();
         }
 
+        private void OnSearchTextChange(object sender, TextChangedEventArgs e)
+        {
+            MainVM.SearchTextInUsers();
+        }
     }
 }

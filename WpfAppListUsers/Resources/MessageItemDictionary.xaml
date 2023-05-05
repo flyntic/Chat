@@ -30,7 +30,7 @@
                         </StackPanel>
 
                         <TextBox Text="{Binding Text}" Background="Transparent"
-                                     IsEnabled="True"
+                                     IsEnabled="False"
                                      Width="300" 
                                      BorderBrush="Transparent"
                                      FontSize="14"

@@ -63,6 +63,9 @@
                              Content="Войти"
                              Command="{Binding LoginCommand}"
                              />
+                <Button Background="Transparent" BorderThickness="0" Command="{Binding NewUserOpenDialogCommand}">
+                   <Label Content="Зарегистрироваться" FontStyle="Italic"/>
+                </Button>
             </StackPanel>
         </Grid>
     </Grid>

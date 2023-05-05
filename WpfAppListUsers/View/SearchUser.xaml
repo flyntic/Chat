@@ -1,0 +1,85 @@
+﻿<Window x:Class="WpfAppListUsers.View.SearchUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppListUsers.View"
+        xmlns:vm="clr-namespace:WpfAppListUsers.ViewModel"
+        xmlns:cv="clr-namespace:WpfAppListUsers.Resources"
+        mc:Ignorable="d"
+        Title="SearchUser" Height="450" Width="800"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        BorderBrush="#4C2982"   
+        BorderThickness="5"
+    >
+    <Window.Resources>
+        <cv:ActiveConverter x:Key="activeConverter"/>
+        <cv:LevelConverter  x:Key="levelConverter"/>
+        <Style TargetType="ScrollBar">
+            <Setter Property="Background" Value="Transparent"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FFBB00">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions  >
+        <Border DockPanel.Dock="Top" Style="{StaticResource BorderTopWindow}"
+                MouseLeftButtonDown="AnyWindowDrag"
+                >
+            <Grid 
+                  Background="#4C2982"
+                  >
+                <Label Content="Search User"
+                       Foreground="#FFBB00"
+                       FontWeight="Bold"
+                       />
+                <StackPanel HorizontalAlignment="Right"
+                            Orientation="Horizontal"
+                            Height="30"  VerticalAlignment="Top"
+                            >
+                    <Button Style="{StaticResource CloseButton}"                                 
+                            Click="AnyWindowClose"
+                        />
+                </StackPanel>
+            </Grid>
+        </Border>
+        <DockPanel Grid.Row="1" Margin="20">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ListView Margin="10" 
+                      Background="Transparent"                      
+                      Name="UserListView"
+                      ItemsSource="{Binding TemplateListUsers.Users,  Mode=TwoWay}"
+                      SelectedItem="{Binding TemplateSearchUser, Mode=TwoWay}"
+                      ItemContainerStyle="{StaticResource ListItemStyle}"                   
+                      >
+                </ListView>
+                <StackPanel  Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center">
+                    <Label   Content="Имя"/>
+                    <TextBox Text="{Binding  TemplateSearchUser.FirstName}" 
+                             Background="Transparent"
+                             IsEnabled="False"/>
+                    <Label   Content="Фамилия"/>
+                    <TextBox Text="{Binding  TemplateSearchUser.LastName}" 
+                             Background="Transparent"
+                             IsEnabled="False"/>
+                    <Label   Content="Телефон"/>
+                    <TextBox Text="{Binding  TemplateSearchUser.Phone}" 
+                             Background="Transparent"
+                             IsEnabled="False"/>
+                    <Label />
+                    <Button Content="Добавить в друзья" 
+                            Background="Transparent"
+                            FontWeight="SemiBold"
+                            Height="30"
+                            Command="{Binding AddSearchUserCommand}"/>
+                </StackPanel>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>
