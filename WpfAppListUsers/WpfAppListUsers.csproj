@@ -206,6 +206,7 @@
     <Compile Include="Model\TemplateListUsers.cs" />
     <Compile Include="Model\TemplateMessage.cs" />
     <Compile Include="Model\TemplateSelectUser.cs" />
+    <Compile Include="ViewModel\SearchViewModel.cs" />
     <Compile Include="ViewModel\WindowExtension.cs" />
     <Page Include="Resources\ListItemDictionary.xaml">
       <SubType>Designer</SubType>
@@ -224,6 +225,14 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Resources\WindowsStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\SearchUser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\NewUser.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -256,6 +265,12 @@
     <Compile Include="Resources\LevelConverter.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
     <Compile Include="Resources\ActiveConverter.cs" />
+    <Compile Include="View\SearchUser.xaml.cs">
+      <DependentUpon>SearchUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\NewUser.xaml.cs">
+      <DependentUpon>NewUser.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\AddUser.xaml.cs">
       <DependentUpon>AddUser.xaml</DependentUpon>
     </Compile>

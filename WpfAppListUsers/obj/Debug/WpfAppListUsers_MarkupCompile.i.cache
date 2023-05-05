@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\AnnaC#\chat\WpfAppListUsers\obj\Debug\
+C:\Users\root\Desktop\Chat-master2\Chat-master\WpfAppListUsers\obj\Debug\
 WpfAppListUsers
 none
 false
 DEBUG;TRACE
-C:\AnnaC#\chat\WpfAppListUsers\App.xaml
-980829319
+C:\Users\root\Desktop\Chat-master2\Chat-master\WpfAppListUsers\App.xaml
+111020907695
 
-25-1639889405
-14744497732
-Resources\ListItemDictionary.xaml;Resources\AvatarDictionary.xaml;Resources\MessageItemDictionary.xaml;Resources\TopBorderButtonStyle.xaml;Resources\WindowsStyle.xaml;View\AddUser.xaml;View\AboutUser.xaml;View\LoginWindow.xaml;View\MainWindow.xaml;
+281170026901
+147-837673710
+Resources\ListItemDictionary.xaml;Resources\AvatarDictionary.xaml;Resources\MessageItemDictionary.xaml;Resources\TopBorderButtonStyle.xaml;Resources\WindowsStyle.xaml;View\SearchUser.xaml;View\NewUser.xaml;View\AddUser.xaml;View\AboutUser.xaml;View\LoginWindow.xaml;View\MainWindow.xaml;
 
-True
+False
 

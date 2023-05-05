@@ -44,11 +44,12 @@
         <DockPanel Grid.Column="0" Grid.Row="1" 
                   
                    >
-            <StackPanel Margin="10,10,0,10" DockPanel.Dock="Top"
-                        Height="30" Orientation="Horizontal" >
-                <Button Width="30" Height="30"
-                        DockPanel.Dock="Right" 
+            <DockPanel Margin="10,10,0,0" DockPanel.Dock="Top"
+                        Height="40" >
+                <Button Width="60" Height="30"
+                        DockPanel.Dock="left" 
                         Background="Transparent"
+                        Margin="0,0,10,0"
                         Command="{Binding LogOutCommand, ElementName=MainVM}">
                     <Button.Template>
                         <ControlTemplate>
@@ -61,22 +62,54 @@
                     </Button.Effect>
 
                 </Button>
-                     <Ellipse  Width="30" Height="30">
+                <Button Foreground="Transparent" Background="Transparent" 
+                        BorderThickness="0"
+                        Command="{Binding AboutLoginUserCommand,ElementName=MainVM}">
+                    <StackPanel Orientation="Horizontal" >
+                       <Ellipse  Width="30" Height="30">
                         <Ellipse.Fill>
                         <ImageBrush ImageSource="{Binding LoginUser.AvatarFileAbsolute}"></ImageBrush>
                         </Ellipse.Fill>
                     </Ellipse>
+                    <StackPanel Orientation="Vertical">
                         <Label Content="{Binding LoginUser.FirstName}"
                                        FontWeight="Bold"
-                                       FontSize="17"
+                                       FontSize="15"
                                        Foreground="White"
                                        />
-                         <Label Content="{Binding LoginUser.LastName}"
-                                       FontWeight="Bold"
-                                       FontSize="17"
+                        <Label Content="{Binding LoginUser.LastName}"
+                                       FontWeight="SemiBold"
+                                       FontSize="15"
                                        Foreground="White"
                                        />
-           </StackPanel>
+                    </StackPanel>
+                    
+                   </StackPanel>
+                </Button>
+          </DockPanel>
+            <StackPanel Height="30" DockPanel.Dock="Bottom" Margin="10" Orientation="Horizontal">
+                 <TextBox Width="140" Background="Transparent"
+                          Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+                          TextChanged="OnSearchTextChange" ></TextBox>
+                 <Button Width="40" Height="30"
+                        Background="Transparent"
+                        Command="{Binding SearchUserShowCommand, ElementName=MainVM}"
+                        x:Name="SearchButton"
+                        >
+                    <Button.Template>
+                        <ControlTemplate>
+                            <fa:ImageAwesome Icon="Search" x:Name="iconSend">
+                                <fa:ImageAwesome.Foreground>
+                                    <SolidColorBrush Color="#4C2982"/>
+                                </fa:ImageAwesome.Foreground>
+                            </fa:ImageAwesome>
+                        </ControlTemplate>
+                    </Button.Template>
+                    <Button.Effect>
+                        <DropShadowEffect Color="Gray"/>
+                    </Button.Effect>
+                </Button>
+            </StackPanel>
             <ListView Margin="10" 
                       Background="Transparent"                      
                       Name="UserListView"
@@ -94,7 +127,7 @@
                <Button Style="{StaticResource ButtonStyle}" 
                         Height="30" Width="30" 
                         FontStretch="Normal"
-                        Margin="0,0,30,0"/>
+                        Margin="20,0,30,0"/>
                  <Button Width="80" 
                          Height="30" 
                          DockPanel.Dock="Right"
@@ -102,7 +135,7 @@
                          Command="{Binding AboutUserCommand, ElementName=MainVM}">
                         <Button.Template>
                         <ControlTemplate>
-                            <fa:ImageAwesome Icon="Question" 
+                            <fa:ImageAwesome Icon="AddressBook" 
                                      Foreground="#4C2982"></fa:ImageAwesome>
                         </ControlTemplate>
                     </Button.Template>
@@ -112,7 +145,7 @@
 
                 </Button>
                  <Label Content="{Binding SelectUser.FirstName}"
-                       Margin="0,0,30,0"/>
+                       Margin="0,0,30,0" FontWeight="SemiBold" FontSize="15" Foreground="White"/>
         </DockPanel>
             <DockPanel DockPanel.Dock="Bottom">
                 <Button Width="80" Height="30"

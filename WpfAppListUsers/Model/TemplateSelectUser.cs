@@ -42,12 +42,9 @@ namespace WpfAppListUsers.Model
             }
         }
 
-        //public TemplateListUsers FriendList { get; set; }
-        // public List<TemplateMessage> Messages { get; set; }=new List<TemplateMessage>();
-
-
         public TemplateSelectUser(User selectUser, User loginUser)
         {
+            if (selectUser == null) return ;
             Id = selectUser.Id;
             FirstName = selectUser.FirstName;
             LastName = selectUser.LastName;

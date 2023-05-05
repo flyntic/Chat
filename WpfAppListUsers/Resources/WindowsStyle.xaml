@@ -9,13 +9,16 @@
             <Grid HorizontalAlignment="Stretch"
                   Background="#4C2982"                  
                   >
+                <StackPanel Orientation="Horizontal"> 
                 <Label Content="Чат"
                        Foreground="#FFBB00"
                        FontWeight="Bold"
                        />
-                <Label  Content="{Binding connectionState}"
+                <Label  Content="{Binding ConnectionState, ElementName=MainVM, UpdateSourceTrigger=PropertyChanged}"
+                         
                        Foreground="#FFBB00"
-                       FontWeight="Bold" />
+                       FontWeight="SemiBold" />
+               </StackPanel> 
                     <StackPanel HorizontalAlignment="Right"
                             Orientation="Horizontal"
                             Height="30"  VerticalAlignment="Top"
